@@ -1,3 +1,2 @@
 # My_Projects
-My first repository on Git-Hub
-Project Weather App
+Weather App.Created using HTML,JS and RapidAPI.
